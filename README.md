@@ -1,6 +1,7 @@
 
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&lines=Hi+There+%F0%9F%91%8B;Im+Fiifi+Amoah;A+passoinate+AI+and+BlockChain+developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&lines=Hi+There+%F0%9F%91%8B;Im+Fiifi+Amoah;A+passoinate+AI+and+BlockChain+developer)](https://git.io/typing-svg)
+
 
   
 <div align="center">
@@ -11,6 +12,10 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An0n-xen&layout=compact)](https://github.com/An0n-xen/github-readme-stats)
+<div align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An0n-xen&layout=compact)](https://github.com/An0n-xen/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=An0n-xen&show_icons=true&theme=tokyonight)
+
+</div>
