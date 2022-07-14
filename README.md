@@ -1,7 +1,7 @@
 <!-- Introduction -->
 
 <div align="center">
-<img  src="https://readme-typing-svg.herokuapp.com?size=25&lines=Hi+There+%F0%9F%91%8B;Im+Fiifi+Amoah;A+passoinate+AI+and+BlockChain+developer)](https://git.io/typing-svg)" />
+<img  src="https://readme-typing-svg.herokuapp.com?size=25&lines=Hi+There+%F0%9F%91%8B;Im+Fiifi+Amoah;A+passoinate+about+AI+and+BlockChain+developer)](https://git.io/typing-svg)" />
 
 </div>
 
