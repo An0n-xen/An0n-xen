@@ -29,7 +29,7 @@
 
 <div align="center">
         
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=An0n-xen&show_icons=true&theme=tokyonight)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An0n-xen&layout=demo)](https://github.com/An0n-xen/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=An0n-xen&show_icons=true&theme=tokyonight)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An0n-xen&layout=compact)](https://github.com/An0n-xen/github-readme-stats)
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=An0n-xen&theme=tokyonight)](https://git.io/streak-stats)  
 
