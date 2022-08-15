@@ -7,7 +7,7 @@
 
 <!-- What you are learning -->
 
-- 🌱 I’m currently learning **Blockchain development**
+- 🌱 I’m currently learning **Blockchain development and Argumented reality**
 
 - 📫 How to reach me **fyfybaisieamoah6@gmail.com**
 
