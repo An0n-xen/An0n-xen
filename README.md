@@ -1,13 +1,13 @@
 <!-- Introduction -->
 
 <div align="center">
-<img  src="https://readme-typing-svg.herokuapp.com?size=25&lines=Hi+There+%F0%9F%91%8B;I'm+Fiifi+Amoah;A+passionate+AI+and+Blockchain+developer)](https://git.io/typing-svg)" />
+<img  src="https://readme-typing-svg.herokuapp.com?size=25&lines=Hi+There+%F0%9F%91%8B;I'm+Fiifi+Amoah;A+passionate+AI+Virtual+and+Argumented+Reality)](https://git.io/typing-svg)" />
 
 </div>
 
 <!-- What you are learning -->
 
-- 🌱 I’m currently learning **AI and Argumented reality**
+- 🌱 I’m currently learning **Argumented reality**
 
 - 📫 How to reach me **fyfybaisieamoah6@gmail.com**
 
