@@ -7,7 +7,7 @@
 
 <!-- What you are learning -->
 
-- 🌱 I’m currently learning **Argumented reality**
+- 🌱 I’m currently learning **Frontend (Nextjs)** and **Backend (Express)**
 
 - 📫 How to reach me **fyfybaisieamoah6@gmail.com**
 
