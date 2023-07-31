@@ -22,6 +22,17 @@
 
 </div>
 
+<h3>  
+👋 Hello, fellow coders! 🚀
+</h3>
+
+I am a Python enthusiast, Next.js aficionado, and a mobile development enthusiast. My passion lies in harnessing the power of AI to create innovative solutions that have a positive impact on society. 
+
+As a hardworking and driven individual, I thrive in collaborative environments where ideas are exchanged freely and creativity knows no bounds. I firmly believe in the potential of technology to transform the world, and I'm constantly on the lookout for exciting projects that can make a difference.
+
+Whether it's diving into complex algorithms or building elegant user interfaces, I love the challenge that comes with crafting cutting-edge solutions. Let's join forces and create something amazing together! 🤝 Let's code for a better tomorrow! 🌟
+<h2></h2>
+
 <!-- Programming languages Frameworks  -->
 
 <h3 align="left">Languages and Tools:</h3>
