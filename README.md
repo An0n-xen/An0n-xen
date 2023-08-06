@@ -42,7 +42,7 @@ Whether it's diving into complex algorithms or building elegant user interfaces,
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cpp,cs,c,py,java,solidity)](https://skillicons.dev)
  </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Tools & Frameworks:</h3>
  <p>
    
 [![My Skills](https://skillicons.dev/icons?i=git,github,bash,linux,docker,tailwindcss,figma,tensorflow,nodejs,flask,django,express,react,nextjs,mysql,postgres,arduino,raspberrypi,)](https://skillicons.dev)
