@@ -1,8 +1,8 @@
 <!-- Introduction -->
 
 <div align="center">
-<img  src="https://readme-typing-svg.herokuapp.com?size=25&lines=Hi+There+%F0%9F%91%8B;I'm+Fiifi+Amoah;am+passionate+about+AI+Virtual+and+Argumented+Reality)](https://git.io/typing-svg)" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Fiifi+Baisie+Amoah;A+smart+and+passionate+Data+Scientist+;Below+is+a+little+about+me;Please+don't+fall+in+love+%F0%9F%98%9C)](https://git.io/typing-svg)
 </div>
 
 <!-- What you are learning -->
