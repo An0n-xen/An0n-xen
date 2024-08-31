@@ -27,11 +27,11 @@
 👋 Hello, fellow coders! 🚀
 </h3>
 
-I am a Python enthusiast, Next.js aficionado, and a mobile development enthusiast. My passion lies in harnessing the power of AI to create innovative solutions that have a positive impact on society. 
+I am a passionate data scientist with a strong background in building machine learning and AI models. My enthusiasm for technology drives me to explore innovative solutions that can make a meaningful difference in the world.
 
-As a hardworking and driven individual, I thrive in collaborative environments where ideas are exchanged freely and creativity knows no bounds. I firmly believe in the potential of technology to transform the world, and I'm constantly on the lookout for exciting projects that can make a difference.
+I am dedicated and thrive in collaborative environments where creativity and knowledge are shared openly. I believe in the transformative power of technology and am always eager to take on projects that have a positive impact on society.
 
-Whether it's diving into complex algorithms or building elegant user interfaces, I love the challenge that comes with crafting cutting-edge solutions. Let's join forces and create something amazing together! 🤝 Let's code for a better tomorrow! 🌟
+Whether it’s developing sophisticated algorithms or optimizing data-driven models, I enjoy the challenge of pushing the boundaries of what AI can achieve. Let's collaborate and create groundbreaking solutions for a brighter future! 🌟 Together, let's harness the power of data to change the world! 🌍
 <h2></h2>
 
 <!-- Programming languages Frameworks  -->
