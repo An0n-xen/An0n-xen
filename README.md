@@ -32,11 +32,11 @@ I am a passionate data scientist with a strong background in building machine le
 I am dedicated and thrive in collaborative environments where creativity and knowledge are shared openly. I believe in the transformative power of technology and am always eager to take on projects that have a positive impact on society.
 
 Whether it’s developing sophisticated algorithms or optimizing data-driven models, I enjoy the challenge of pushing the boundaries of what AI can achieve. Let's collaborate and create groundbreaking solutions for a brighter future! 🌟 Together, let's harness the power of data to change the world! 🌍
-<h2></h2>
+<!-- <h2></h2> -->
 
 <!-- Programming languages Frameworks  -->
 
-<h3 align="left">Languages:</h3>
+<!-- <h3 align="left">Languages:</h3>
  <p>
    
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cpp,cs,c,py,java,solidity)](https://skillicons.dev)
@@ -46,7 +46,7 @@ Whether it’s developing sophisticated algorithms or optimizing data-driven mod
  <p>
    
 [![My Skills](https://skillicons.dev/icons?i=git,github,bash,linux,docker,tailwindcss,figma,tensorflow,nodejs,flask,django,express,react,nextjs,mysql,postgres,arduino,raspberrypi,)](https://skillicons.dev)
- </p>
+ </p> -->
 
 <h2></h2>
 
