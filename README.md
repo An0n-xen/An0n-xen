@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Something Cool**
 - 📫 How to reach me **fyfybaisieamoah6@gmail.com**
 - 💻 Portfolio site **https://an0nxen.vercel.app/**
-- 👯 &nbsp;&nbsp; I’m looking to collaborate on **anything cool that would impact society**
+- 👯 &nbsp;&nbsp; I’m looking to collaborate on **anything cool that would impact society **
 - ⚡ Fun fact **I'm a great person to work with**
 
 
