@@ -59,7 +59,7 @@ Whether it’s developing sophisticated algorithms or optimizing data-driven mod
 
 </div>
 
-<h1> </h1>
+<!-- <h1> </h1> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
