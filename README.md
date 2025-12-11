@@ -48,7 +48,8 @@ Whether it’s developing sophisticated algorithms or optimizing data-driven mod
 [![My Skills](https://skillicons.dev/icons?i=git,github,bash,linux,docker,tailwindcss,figma,tensorflow,nodejs,flask,django,express,react,nextjs,mysql,postgres,arduino,raspberrypi,)](https://skillicons.dev)
  </p> -->
 
-<h2></h2>
+<!-- <h2></h2>
+-->
 
 
 <div align="center">
