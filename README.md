@@ -23,7 +23,7 @@
 
 </div>
 
-<h3>  
+<!-- <h3>  
 👋 Hello, fellow coders! 🚀
 </h3>
 
@@ -31,7 +31,7 @@ I am a passionate data scientist with a strong background in building machine le
 
 I am dedicated and thrive in collaborative environments where creativity and knowledge are shared openly. I believe in the transformative power of technology and am always eager to take on projects that have a positive impact on society.
 
-Whether it’s developing sophisticated algorithms or optimizing data-driven models, I enjoy the challenge of pushing the boundaries of what AI can achieve. Let's collaborate and create groundbreaking solutions for a brighter future! 🌟 Together, let's harness the power of data to change the world! 🌍
+Whether it’s developing sophisticated algorithms or optimizing data-driven models, I enjoy the challenge of pushing the boundaries of what AI can achieve. Let's collaborate and create groundbreaking solutions for a brighter future! 🌟 Together, let's harness the power of data to change the world! 🌍 -->
 <!-- <h2></h2> -->
 
 <!-- Programming languages Frameworks  -->
