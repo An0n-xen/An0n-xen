@@ -55,7 +55,7 @@ Whether it’s developing sophisticated algorithms or optimizing data-driven mod
 <div align="center">
         
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An0n-xen&theme=gotham&layout=compact)](https://github.com/Chamepp/Chamepp) -->  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=An0n-xen&theme=tokyonight)](https://git.io/streak-stats)  
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=An0n-xen&theme=tokyonight)](https://git.io/streak-stats)  -->
 
 </div>
 
@@ -66,7 +66,6 @@ Whether it’s developing sophisticated algorithms or optimizing data-driven mod
 <a href="https://www.linkedin.com/in/fiifi-amoah" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fiifi Amoah" height="30" width="40" />
 </a>
-<a href="https://instagram.com/anon_xen8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anon_xen8" height="30" width="40" /></a>
 <a href="https://discord.gg/2533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2533" height="30" width="40" /></a>
 </p>
 <div align="center">
