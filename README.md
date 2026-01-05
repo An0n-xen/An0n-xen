@@ -63,7 +63,9 @@ Whether it’s developing sophisticated algorithms or optimizing data-driven mod
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/fiifi baisie amoah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fiifi baisie amoah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fiifi-amoah" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fiifi Amoah" height="30" width="40" />
+</a>
 <a href="https://instagram.com/anon_xen8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anon_xen8" height="30" width="40" /></a>
 <a href="https://discord.gg/2533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2533" height="30" width="40" /></a>
 </p>
