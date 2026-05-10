@@ -17,4 +17,6 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://www.linkedin.com/in/fiifi-amoah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fiifi Amoah" height="30" width="40" /></a>&nbsp;&nbsp;<a href="https://discord.gg/2533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2533" height="30" width="40" /></a></p>
+
+| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />](https://www.linkedin.com/in/fiifi-amoah) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />](https://discord.gg/2533) |
+|:-:|:-:|
